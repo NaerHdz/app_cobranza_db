@@ -1,0 +1,126 @@
+{
+  "routesAddress": [
+    {
+      "id_empresa": "EMP001",
+      "id_sucursal": "SUC001",
+      "id_ruta": "RUTA001",
+      "ruta": "Ruta Centro",
+      "estatus": "ACTIVO",
+      "id_usuario": "USR123",
+      "fum": "2025-07-30T10:00:00Z"
+    },
+    {
+      "id_empresa": "EMP001",
+      "id_sucursal": "SUC002",
+      "id_ruta": "RUTA002",
+      "ruta": "Ruta Norte",
+      "estatus": "INACTIVO",
+      "id_usuario": "USR124",
+      "fum": "2025-07-28T08:30:00Z"
+    },
+    {
+      "id_empresa": "EMP002",
+      "id_sucursal": "SUC003",
+      "id_ruta": "RUTA003",
+      "ruta": "Ruta Sur",
+      "estatus": "ACTIVO",
+      "id_usuario": "USR125",
+      "fum": "2025-07-27T14:45:00Z"
+    },
+    {
+      "id_empresa": "EMP003",
+      "id_sucursal": "SUC004",
+      "id_ruta": "RUTA004",
+      "ruta": "Ruta Oriente",
+      "estatus": "ACTIVO",
+      "id_usuario": "USR126",
+      "fum": "2025-07-25T09:00:00Z"
+    },
+    {
+      "id_empresa": "EMP004",
+      "id_sucursal": "SUC005",
+      "id_ruta": "RUTA005",
+      "ruta": "Ruta Poniente",
+      "estatus": "ACTIVO",
+      "id_usuario": "USR127",
+      "fum": "2025-07-24T11:30:00Z"
+    },
+    {
+      "id_empresa": "EMP001",
+      "id_sucursal": "SUC006",
+      "id_ruta": "RUTA006",
+      "ruta": "Ruta Industrial",
+      "estatus": "INACTIVO",
+      "id_usuario": "USR128",
+      "fum": "2025-07-22T12:00:00Z"
+    }
+  ],
+  "routesAddressDetail": [
+    {
+      "id_empresa": "EMP001",
+      "id_sucursal": "SUC001",
+      "id_ruta": "RUTA001",
+      "cp": "01000",
+      "colonia": "Centro",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "pais": "México",
+      "orden": 1
+    },
+    {
+      "id_empresa": "EMP001",
+      "id_sucursal": "SUC002",
+      "id_ruta": "RUTA002",
+      "cp": "02800",
+      "colonia": "Lindavista",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "pais": "México",
+      "orden": 1
+    },
+    {
+      "id_empresa": "EMP002",
+      "id_sucursal": "SUC003",
+      "id_ruta": "RUTA003",
+      "cp": "04400",
+      "colonia": "Coyoacán",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "pais": "México",
+      "orden": 1
+    },
+    {
+      "id_empresa": "EMP003",
+      "id_sucursal": "SUC004",
+      "id_ruta": "RUTA004",
+      "cp": "03500",
+      "colonia": "Narvarte",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "pais": "México",
+      "orden": 1
+    },
+    {
+      "id_empresa": "EMP004",
+      "id_sucursal": "SUC005",
+      "id_ruta": "RUTA005",
+      "cp": "02000",
+      "colonia": "Azcapotzalco",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "pais": "México",
+      "orden": 1
+    },
+    {
+      "id_empresa": "EMP001",
+      "id_sucursal": "SUC006",
+      "id_ruta": "RUTA006",
+      "cp": "09000",
+      "colonia": "Iztapalapa",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "pais": "México",
+      "orden": 1
+    }
+  ]
+}
